@@ -1,0 +1,6 @@
+h1 {
+    transition: color 0.3s;
+}
+h1:hover {
+    color: blue
+}
