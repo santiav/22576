@@ -1,0 +1,2 @@
+git remote add origin https://github.com/santiav/22576.git
+git push -u origin main
